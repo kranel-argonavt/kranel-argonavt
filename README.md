@@ -64,12 +64,9 @@ Had experience in working with:
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kranel-argonavt&theme=react&border=61dafb&hide_border=true" alt="kranel-argonavt"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kranel-argonavt&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-    </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kranel-argonavt&theme=dark" alt="GitHub Streak" />
+  </a>
   </div>
   
   <div align=center>
