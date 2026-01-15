@@ -64,18 +64,26 @@ Had experience in working with:
 
 <p align=center>
   <div align=center>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kranel-argonavt&theme=dark" alt="GitHub Streak" />
-  </a>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+     <img alt="kranel-argonavt" src="https://github-readme-streak-stats-eight.vercel.app/?user=kranel-argonavt&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+      <a href="https://git.io/streak-stats">
+  </p>
   </div>
   
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranel-argonavt&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+      <img alt="kranel-argonavt's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kranel-argonavt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     </a>
-<details>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="kranel-argonavt's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kranel-argonavt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+    </a>
+  <br/>
   <summary>More stats</summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kranel-argonavt&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img alt="kranel-argonavt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kranel-argonavt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    </a>
 </details>  
   </div>
 </p>
