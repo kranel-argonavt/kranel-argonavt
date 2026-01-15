@@ -79,21 +79,16 @@ Had experience in working with:
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="kranel-argonavt's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kranel-argonavt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </a>
-  <br/>
+  
+<details> 
   <summary>More stats</summary>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="kranel-argonavt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kranel-argonavt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+      <img alt="kranel-argonavt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kranel-argonavt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
     </a>
 </details>  
   </div>
 </p>
 
-#
 
-# <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="25"> GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kranel-argonavt&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=10)
-#
-![](https://komarev.com/ghpvc/?username=kranel-argonavt&style=flat-square&label=Profile_Views)
 
 
