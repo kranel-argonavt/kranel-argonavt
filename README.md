@@ -25,8 +25,7 @@
 
 Hello! I am a developer with enthusiasm and passion. 
 Creating games is the embodiment of my creativity and effort. 
-On my GitHub profile, you'll find my projects where I showcase my skills and technical acumen. 
-I am inspired by the opportunity to create exciting gameplay and unforgettable virtual worlds that bring joy to players. 
+On my GitHub profile, you'll find my projects where I showcase my skills and technical acumen.  
 I am always open to working with other developers and am always looking to expand my skills. 
 Join me on GitHub where we can share ideas and build something incredible together!
 
@@ -66,16 +65,16 @@ Had experience in working with:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kranel-argonavt&theme=react&border=61dafb&hide_border=true" alt="kranel-argonavt" />
+      <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kranel-argonavt&theme=react&border=61dafb&hide_border=true" alt="kranel-argonavt"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kranel-argonavt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kranel-argonavt&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
   
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranel-argonavt&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranel-argonavt&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
     </a>
 <details>
   <summary>More stats</summary>
