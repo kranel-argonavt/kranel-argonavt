@@ -16,14 +16,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Nazar;I'm+a+Game+Developer);&center=true&width=500&height=40"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Nazar;I'm+a+Developer);&center=true&width=500&height=40"></a>
 </p>
 
 # <img src="https://media.giphy.com/media/3o7btMjNUTJFUhsnrG/giphy.gif" width="30"> About me
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1MW1qcWxyMHEzd2JjZzA5ZHUxNW1tcWFhM3M1eGFkOHgxdTA2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjjrLK3XZkdgJRvoZJ/giphy.gif" width="210" src="img/Fire.gif" />
 
-Hello! I am a game developer with enthusiasm and passion. 
+Hello! I am a developer with enthusiasm and passion. 
 Creating games is the embodiment of my creativity and effort. 
 On my GitHub profile, you'll find my projects where I showcase my skills and technical acumen. 
 I am inspired by the opportunity to create exciting gameplay and unforgettable virtual worlds that bring joy to players. 
@@ -48,7 +48,6 @@ Where to find me:
 <img src="https://img.shields.io/badge/-Aseprite-949EA8?style=for-the-badge&logo=Aseprite&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Adobe Photoshop-004B97?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Adobe Illustrator-C55400?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Blender-FF7C00?style=for-the-badge&logo=Blender&logoColor=white"></img>
 
 Had experience in working with:
 
