@@ -32,7 +32,7 @@ Join me on GitHub where we can share ideas and build something incredible togeth
 Where to find me:
 
 <a target="_blank" href="mailto:khozinnazar@gmail.com"><img src="https://img.shields.io/badge/-khozinnazar@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="www.linkedin.com/in/аrgonaut"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/%D0%B0rgonaut/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/khozinnazar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://discordapp.com/users/393819114126311426/"><img src="https://img.shields.io/badge/-kranel_argonaft-12100E?style=for-the-badge&logo=Discord&logoColor=white"></img>
 
