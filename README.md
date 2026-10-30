@@ -24,7 +24,6 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1MW1qcWxyMHEzd2JjZzA5ZHUxNW1tcWFhM3M1eGFkOHgxdTA2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjjrLK3XZkdgJRvoZJ/giphy.gif" width="210" src="img/Fire.gif" />
 
 Hello! I am a developer with enthusiasm and passion. 
-Creating games is the embodiment of my creativity and effort. 
 On my GitHub profile, you'll find my projects where I showcase my skills and technical acumen.  
 I am always open to working with other developers and am always looking to expand my skills. 
 Join me on GitHub where we can share ideas and build something incredible together!
