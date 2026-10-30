@@ -23,16 +23,12 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1MW1qcWxyMHEzd2JjZzA5ZHUxNW1tcWFhM3M1eGFkOHgxdTA2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjjrLK3XZkdgJRvoZJ/giphy.gif" width="210" src="img/Fire.gif" />
 
-Hello! I am a developer with enthusiasm and passion. 
-On my GitHub profile, you'll find my projects where I showcase my skills and technical acumen.  
-I am always open to working with other developers and am always looking to expand my skills. 
-Join me on GitHub where we can share ideas and build something incredible together!
+Hello! I am a developer with enthusiasm and passion. On my GitHub profile, you'll find my projects where I showcase my skills and technical acumen.  I am always open to working with other developers and am always looking to expand my skills. Join me on GitHub where we can share ideas and build something incredible together!
 
 Where to find me:
 
 <a target="_blank" href="mailto:khozinnazar@gmail.com"><img src="https://img.shields.io/badge/-khozinnazar@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/%D0%B0rgonaut/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/khozinnazar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://discordapp.com/users/393819114126311426/"><img src="https://img.shields.io/badge/-kranel_argonavt-12100E?style=for-the-badge&logo=Discord&logoColor=white"></img>
 
 #
